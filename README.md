@@ -9,3 +9,7 @@ It provides a modifier class to easily get layout-items sharing the same height 
 Install using Bower:
 
     $ bower install --save inuit-flex-layout
+
+Install using npm:
+
+    $ npm install --save inuit-flex-layout
