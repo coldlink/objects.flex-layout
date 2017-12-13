@@ -1,0 +1,13 @@
+{
+  "name": "inuit-flex-layout",
+  "version": "0.2.0",
+  "description": "A layout abstraction modifier class in the inuitcss framework",
+  "main": " ",
+  "repository": "https://coldlink@github.com/coldlink/objects.flex-layout.git",
+  "authors": [
+    "Harry Roberts <harry@csswizardry.com>",
+    "Dennis Heibuelt <dennis@csshugs.com>",
+    "Mahesh Makani <mahesh.makani@netnatives.co.uk>"
+  ],
+  "license": "Apache"
+}
